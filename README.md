@@ -36,6 +36,10 @@ _In todays day and age there is a never ending amount of threats :supervillain: 
 _Mobile (Android): This Application will be available for the Android platform, where users are able to heave straightforward access to cybersecurity tips easily from ones smartphone :iphone:._
 
 
+## Front/Back end support
+
+_Frontend: Created with Java or Kotlin._
+
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
