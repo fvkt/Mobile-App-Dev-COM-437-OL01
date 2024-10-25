@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Mobile Application Development COM-437-OL01
 
-_Get started using GitHub in less than an hour._
+_Android App Project Outline: Cybersecurity Tips Application._
 
 </header>
 
@@ -21,9 +21,15 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## Project description
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_This Cybersecurity Tips Application will be a mobile application made for educational purposes for uses on essential cybersecurity practices. This Application is aimed at individuals that are not familiar with online safety, straightforward simple tips, do'd and dont's, plus the reminders on safe internet habits, protectibe personal data, and identifying potential cybersecurity threats.  :closed_lock_with_key:_
+
+
+## Problem addressing
+
+_In todays day and age there is a never ending amount of threats :supervillain: not just in the real world but online as well, and many people have little to no knowledge of basic cybersecurity practices. This app is just the solutions for addressing these problems by giving people access on this information to assost users to recognize  general online dangers and prevent or minimize the chance of users from becoming a victim of a cybercrime._
+
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
