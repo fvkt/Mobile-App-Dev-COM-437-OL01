@@ -31,6 +31,12 @@ _This Cybersecurity Tips Application will be a mobile application made for educa
 _In todays day and age there is a never ending amount of threats :supervillain: not just in the real world but online as well, and many people have little to no knowledge of basic cybersecurity practices. This app is just the solutions for addressing these problems by giving people access on this information to assost users to recognize  general online dangers and prevent or minimize the chance of users from becoming a victim of a cybercrime._
 
 
+## Platform
+
+_Mobile (Android): This Application will be available for the Android platform, where users are able to heave straightforward access to cybersecurity tips easily from ones smartphone :iphone:._
+
+
+
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
