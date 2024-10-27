@@ -50,3 +50,4 @@ Do's and Don'ts: a dedicated section for lists of reccommendations of actions to
 ## Design (Wireframes)
 
 _Home screen: displaying the daily tip and quick access buttons for quizzes and do's and dont's. Tips page: simple straightforward navigation page, quiz page, interactive quizes designed to engage users and test their knowledge, lastly notification page, to adjust alerts and display recent alerts or reminders._
+
