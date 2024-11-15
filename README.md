@@ -42,7 +42,7 @@ _Frontend: Created with Java or Kotlin, being the standard for Android developme
 Backend: Firebase will take care of the data storage for delivering tips and FAQs, all while Google firebase authentication can provide optional login for personalized tips._
 
 
-## Fucntionality
+## Functionality
 
 _Daily Tips: Users will receive fresh cybersecurity tip daily to keep them informed and interested.
 Do's and Don'ts: a dedicated section for lists of reccommendations of actions to avoid. Quiz section: In order for users to gauge their knowledge on basic cybersecurity and reinforce best practices. Custom notifications: alerts for emerging threats, and bookmarking to save tips._
